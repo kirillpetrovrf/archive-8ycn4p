@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kirillpetrovrf.github.io/archive-8ycn4p/sitemap.xml
